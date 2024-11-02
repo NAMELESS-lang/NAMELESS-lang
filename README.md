@@ -4,7 +4,7 @@
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@matheusfiedlercolla9587)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMELESS-lang&show_icons=true&theme=gruvbox)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMELESS-lang&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que tenho conhecimento até o momento
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
