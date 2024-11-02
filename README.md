@@ -6,9 +6,6 @@
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMELESS-lang&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que tenho conhecimento até o momento
-<div display = "inline_block">
-<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-</div>
