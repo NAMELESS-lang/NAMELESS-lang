@@ -12,4 +12,4 @@
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMELESS-lang&show_icons=true&theme=dracula)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=NAMELESS-lang&show_icons=true&theme=synthwave)
